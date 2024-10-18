@@ -83,7 +83,11 @@ while True:
 ```
 
 ## Output:
-![cn exp 1a op](https://github.com/user-attachments/assets/51a0c8ea-2c61-4c76-9586-f9eb354c2174)
 
+## Client:
+![Screenshot 2024-10-17 202805](https://github.com/user-attachments/assets/41f3ea24-24e6-4007-9e80-c55cc9357029)
+
+## Server:
+![Screenshot 2024-10-17 202812](https://github.com/user-attachments/assets/b0fbda05-f4ed-4826-b18e-783bb46027ab)
 ## Result:
 Thus the study of Socket Programming Completed Successfully
